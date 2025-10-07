@@ -1,0 +1,5 @@
+
+/* Minimal reset and container */
+body { font-family: Inter, Arial, sans-serif; margin:0; padding:0; background:#fff; color:#000;}
+#root { min-height:100vh; }
+button { cursor:pointer; }
